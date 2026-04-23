@@ -1,6 +1,6 @@
 # Backpropagation — Interactive Walkthrough
 
-An interactive Streamlit app that walks through backpropagation on a tiny 2-1-1 network, one step at a time. Built to make the chain-rule expansions you see in textbooks feel less like a wall of symbols and more like a signal flowing backward through a graph.
+An interactive Streamlit app that walks through backpropagation on a tiny 2-1-1 network, one step at a time. Built to make the chain-rule expansions feel more like a signal flowing backward through a graph.
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue) ![Streamlit](https://img.shields.io/badge/streamlit-1.30+-red) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
